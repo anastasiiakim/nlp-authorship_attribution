@@ -1,5 +1,5 @@
 # nlp-authorship_attribution
-NLP based authorship identification of the greatest novels of the 20th century
+NLP based authorship identification of the greatest novels of the 20th century.
 
 Here I analyzed the writing styles of 12 authors of the 20th century based on their most prominent novels. It was interesting to me whether the works of these authors can be correctly identified. It's difficult to distinguish between writing styles because the writing style of the same author may change over time. Also, some authors write their novels in different genres, which makes distinguishability harder.
 
